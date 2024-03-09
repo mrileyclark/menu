@@ -2,7 +2,7 @@
 
 ****
 
-A project to work on utilizing date objects and using a countdown feature for a company landing page.
+A project to work with w3 schools framework for menu with modal pop ups
 
 Link to project: [https://mrileyclark.github.io/menu/]
 
